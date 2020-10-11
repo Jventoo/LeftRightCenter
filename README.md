@@ -1,4 +1,4 @@
-# Assignment 1 - Jack Vento
+# CSE13 Assignment 1 - Left, Right, Center by Jack Vento
 ## The Program
 
 The program is a psuedo-randomized version of the game Left, Right, Center. Player names, starting balances, and turn order are all predetermined. The only way to influence the outcome of the game are through these two inputs:
